@@ -1,0 +1,38 @@
+.header__nav ul {
+    margin-top:64px;
+    list-style-type: none;
+}
+
+.header__nav a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding:12px 0;
+}
+
+.header__nav .nav__text {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 16px;
+    letter-spacing: 1.2px;
+    color: var(--disabled-color);
+}
+
+
+.header__nav .nav__indicator {
+    width:32px;
+    height:1px;
+    margin-right: 16px;    
+    background-color: var(--disabled-color);
+}
+
+.header__nav .nav__indicator.nav__active {
+    width:64px;
+    background-color: var(--primary-text);
+}
+
+.header__nav .nav__text.nav__active {
+    color: var(--primary-text);
+}

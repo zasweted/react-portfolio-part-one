@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root {
+    --primary-dark:#0f172a;
+    --primary-text:#E2E8F0;
+    --secondary-text:#94A3B8;
+
+    --disabled-color:#64748b;
+
+    --text-highlight-bg:#57D9D5;
+    --text-highlight-color:#134e4a;
+
+}
+
+::selection {
+    background-color: var(--text-highlight-bg); /* Custom background color */
+    color: var(--text-highlight-color); /* Custom text color */
+}
+  
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-selection {
+    background-color: var(--text-highlight-bg); /* Custom background color */
+    color: var(--text-highlight-color);
+}
+
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter Tight", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding:0 96px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    column-gap: 16px;
+}
