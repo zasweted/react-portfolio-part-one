@@ -1,6 +1,6 @@
 .header__sticky {
     width:50%;
-    max-height:919px;
+    height:100vh;
     position:sticky;
     padding:96px 0;
     top:0;
@@ -27,9 +27,14 @@
 }
 
 .header__sticky p {
+    max-width: 320px;
     margin-top: 16px;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     color: var(--secondary-text);
+}
+
+.header__nav span {
+    transition:var(--transition-primary);
 }

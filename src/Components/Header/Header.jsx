@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css';
 import HeaderNav from '../HeaderNav/HeaderNav';
+import HeaderSocials from '../HeaderSocials/HeaderSocials';
 
 const Header = () => {
   return (
@@ -13,6 +14,8 @@ const Header = () => {
             <p>I build pixel-perfect, engaging, and accessible digital experiences.</p>
             <HeaderNav />
         </div>
+
+        <HeaderSocials />
     </header>
   )
 }

@@ -7,20 +7,20 @@ const HeaderNav = () => {
         <ul>
             <li>
                 <a>
-                    <span className='transition-all nav__indicator nav__active'></span>
-                    <span className='transition-all nav__text nav__active'>About</span>
+                    <span className='nav__indicator nav__active'></span>
+                    <span className='nav__text nav__active'>About</span>
                 </a>
             </li>
             <li>
                 <a>
-                    <span className='transition-all nav__indicator'></span>
-                    <span className='transition-all nav__text'>Experience</span>
+                    <span className='nav__indicator'></span>
+                    <span className='nav__text'>Experience</span>
                 </a>
             </li>
             <li>
                 <a>
-                    <span className='transition-all nav__indicator'></span>
-                    <span className='transition-all nav__text'>Projects</span>
+                    <span className='nav__indicator'></span>
+                    <span className='nav__text'>Projects</span>
                 </a>
             </li>
         </ul>

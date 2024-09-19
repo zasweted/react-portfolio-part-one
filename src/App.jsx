@@ -5,6 +5,9 @@ const App = () => {
   return (
     <div className='container'>
       <Header />
+      <main id="content">
+        
+      </main>
     </div>
   )
 }
