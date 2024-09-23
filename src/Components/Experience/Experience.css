@@ -1,0 +1,96 @@
+/* Heading shows on 1024px or less */
+
+
+.experience-section__headding-mobile h2 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.experience-section__list-item-container {
+    position:relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap:16px;
+    border:1px solid transparent;
+    transition: var(--transition-primary);
+    background-color: transparent;
+}
+.experience-section__list-item-container::before {
+    position:absolute;
+    content:'';
+    width:calc(100% + 48px);
+    height:calc(100% + 48px);
+    top:-24px;
+    left:-24px;
+    border-radius:6px;
+    background-color: transparent;
+    z-index: -1;
+    transition: var(--transition-primary);
+}
+.experience-section__list-item-container:hover::before {
+    box-shadow:  0 0 #0000,  0 0 #0000, inset 0 1px 0 0 rgba(148, 163, 184, .1);
+    background-color: var(--experience-hover-bg);
+    
+}
+
+.experience-section__list-item-container header {
+    width:25%;
+    flex-shrink: 0;
+    color:var(--disabled-color);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 16px;
+    letter-spacing: 0.3px;
+    margin:4px 0;
+}
+
+.experience-section__list-item-content {
+    width:75%;
+}
+
+.experience-section__list-item-content a {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    color: var(--primary-text);
+    text-align: left;
+    transition: var(--transition-primary);
+
+}
+
+.experience-section__list-item-container:hover a {
+    color: var(--hover-blue);
+}
+
+.experience-section__list-item-content  a,
+.experience-section__list-item-content  a > span {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 4px;
+}
+.experience-section__icon {
+    margin-left: 4px;
+    font-size: 16px;
+    color: var(--primary-text);
+    transform:translate(0px, 0px);
+    transition:var(--transition-primary);
+
+}
+
+.experience-section__list-item-container:hover .experience-section__icon {
+    color: var(--hover-blue);
+    transform:translate(4px, -4px);
+}
+/*=== MEDIA QUERY ===*/
+
+@media screen and (min-width:1024px) {
+    .experience-section__headding-mobile h2 {
+        display:none;
+    }
+}

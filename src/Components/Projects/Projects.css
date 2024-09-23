@@ -1,0 +1,18 @@
+/* Heading shows on 1024px or less */
+
+
+.projects-section__headding-mobile h2 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/*=== MEDIA QUERY ===*/
+
+@media screen and (min-width:1024px) {
+    .projects-section__headding-mobile h2 {
+        display:none;
+    }
+}

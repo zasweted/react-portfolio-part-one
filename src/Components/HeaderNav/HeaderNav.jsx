@@ -6,19 +6,19 @@ const HeaderNav = () => {
     <nav className="header__nav">
         <ul>
             <li>
-                <a>
+                <a href="#about">
                     <span className='nav__indicator nav__active'></span>
                     <span className='nav__text nav__active'>About</span>
                 </a>
             </li>
             <li>
-                <a>
+                <a href="#experience">
                     <span className='nav__indicator'></span>
                     <span className='nav__text'>Experience</span>
                 </a>
             </li>
             <li>
-                <a>
+                <a href="#projects">
                     <span className='nav__indicator'></span>
                     <span className='nav__text'>Projects</span>
                 </a>

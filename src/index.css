@@ -5,13 +5,16 @@
     --primary-dark:#0f172a;
     --primary-text:#E2E8F0;
     --secondary-text:#94A3B8;
+    --hover-blue:#5eead4;
 
     --disabled-color:#64748b;
 
     --text-highlight-bg:#57D9D5;
     --text-highlight-color:#134e4a;
+    --experience-hover-bg:rgba(30, 41, 59, 0.5);
 
     --transition-primary:all .15s cubic-bezier(.4,0,.2,1);
+
 
 }
 
@@ -47,6 +50,14 @@ ol, ul {
 a {
     text-decoration: none;
 }
+a,
+h2 {
+    color:var( --primary-text);
+}
+
+p {
+    color:var(--secondary-text);
+}
 
 .container {
     max-width: 1280px;
@@ -56,4 +67,14 @@ a {
     flex-direction: row;
     justify-content:space-between;
     column-gap: 16px;
+}
+
+main#content {
+    width:50%;
+    padding:96px 0;
+}
+
+section#about {
+    scroll-margin-top: 96px;
+    margin-bottom: 144px;
 }
