@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "year" : "2023",
+        "title": "Project 1",
+        "project_img": "../Assets/projectImages/portfolio-1.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 2,
+        "year" : "2023",
+        "title": "Project 2",
+        "project_img": "../Assets/projectImages/portfolio-2.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 3,
+        "year" : "2023",
+        "title": "Project 3",
+        "project_img": "../Assets/projectImages/portfolio-3.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 4,
+        "year" : "2023",
+        "title": "Project 4",
+        "project_img": "../Assets/projectImages/portfolio-4.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 5,
+        "year" : "2023",
+        "title": "Project 5",
+        "project_img": "../Assets/projectImages/portfolio-5.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 6,
+        "year" : "2023",
+        "title": "Project 6",
+        "project_img": "../Assets/projectImages/portfolio-6.jpg",
+        "made_at": "Artix.lt",
+        "project_url": "https://www.example.com",
+        "build_with": [
+            "Elementor",
+            "Wordpress",
+            "Woocommerce",
+            "PHP",
+            "jQuery",
+            "JavaScript"
+        ]
+
+    }
+]
