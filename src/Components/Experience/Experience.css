@@ -8,7 +8,20 @@
     letter-spacing: 1px;
     text-transform: uppercase;
 }
+.experience-section__list > li:not(:last-child) {
+    margin-bottom:72px;
+}
+.experience-section__list {
+    transition:var(--transition-primary);
+}
 
+.experience-section__list:hover > li {
+    opacity: 0.5;
+}
+
+.experience-section__list li:hover {
+    opacity: 1 !important; 
+}
 .experience-section__list-item-container {
     position:relative;
     display: flex;
@@ -37,7 +50,9 @@
     background-color: var(--experience-hover-bg);
     
 }
-
+.experience-section__list .experience-section__list-item-container:hover {
+    opacity:1 !important;
+}
 .experience-section__list-item-container header {
     width:25%;
     flex-shrink: 0;
@@ -52,9 +67,13 @@
 
 .experience-section__list-item-content {
     width:75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap:8px;
 }
 
-.experience-section__list-item-content a {
+.experience-section__list-item-content h3 {
     font-size: 16px;
     font-weight: 500;
     line-height: 22px;
@@ -64,12 +83,12 @@
 
 }
 
-.experience-section__list-item-container:hover a {
+.experience-section__list-item-container:hover h3 {
     color: var(--hover-blue);
 }
 
-.experience-section__list-item-content  a,
-.experience-section__list-item-content  a > span {
+.experience-section__list-item-content  h3,
+.experience-section__list-item-content  h3 > span {
     display: inline-flex;
     align-items: flex-end;
     gap: 4px;
@@ -86,6 +105,39 @@
 .experience-section__list-item-container:hover .experience-section__icon {
     color: var(--hover-blue);
     transform:translate(4px, -4px);
+}
+
+.experience-section__description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap:8px;
+}
+
+.experience-section__description p {
+    font-size: 14px;
+    line-height:21px;
+    color:var(--secondary-text);
+    letter-spacing: 1px;
+}
+
+.experience-section__description ul {
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    column-gap:6px;
+    row-gap:8px;
+    margin-top:8px;
+}
+
+.experience-section__description li > div {
+    background-color: var(--tags-bg);
+    color: var(--hover-blue);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 4px 12px;
+    border-radius:50px;
 }
 /*=== MEDIA QUERY ===*/
 

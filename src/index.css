@@ -12,6 +12,7 @@
     --text-highlight-bg:#57D9D5;
     --text-highlight-color:#134e4a;
     --experience-hover-bg:rgba(30, 41, 59, 0.5);
+    --tags-bg:rgba(45, 212, 191, .1);
 
     --transition-primary:all .15s cubic-bezier(.4,0,.2,1);
 
@@ -19,13 +20,13 @@
 }
 
 ::selection {
-    background-color: var(--text-highlight-bg); /* Custom background color */
-    color: var(--text-highlight-color); /* Custom text color */
+    background-color: var(--text-highlight-bg); 
+    color: var(--text-highlight-color); 
 }
   
 /* For WebKit browsers (Chrome, Safari) */
 ::-webkit-selection {
-    background-color: var(--text-highlight-bg); /* Custom background color */
+    background-color: var(--text-highlight-bg);
     color: var(--text-highlight-color);
 }
 
