@@ -4,6 +4,9 @@ import { FiArrowUpRight } from "react-icons/fi";
 
 
 const Experience = () => {
+
+
+
     return (
         <section id="experience" aria-label="Experience">
             <div className="experience-section__headding-mobile">
@@ -14,14 +17,14 @@ const Experience = () => {
                     <ol className='experience-section__list'>
                         <li>
                             <a href="https://www.artix.lt" target="_blank" rel="noopener noreferrer">
-                                <div class="experience-section__list-item-container">
+                                <div className="experience-section__list-item-container">
                                     <header>
                                         2022 — Present
                                     </header>
-                                    <div class="experience-section__list-item-content">
+                                    <div className="experience-section__list-item-content">
                                         <h3>
                                             <div >
-                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight class="experience-section__icon" />
+                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight className="experience-section__icon" />
                                                 </span>
                                             </div>
                                         </h3>
@@ -65,14 +68,14 @@ const Experience = () => {
                         </li>
                         <li>
                             <a href="https://www.artix.lt" target="_blank" rel="noopener noreferrer">
-                                <div class="experience-section__list-item-container">
+                                <div className="experience-section__list-item-container">
                                     <header>
                                         2022 — Present
                                     </header>
-                                    <div class="experience-section__list-item-content">
+                                    <div className="experience-section__list-item-content">
                                         <h3>
                                             <div >
-                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight class="experience-section__icon" />
+                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight className="experience-section__icon" />
                                                 </span>
                                             </div>
                                         </h3>
@@ -116,14 +119,14 @@ const Experience = () => {
                         </li>
                         <li>
                             <a href="https://www.artix.lt" target="_blank" rel="noopener noreferrer">
-                                <div class="experience-section__list-item-container">
+                                <div className="experience-section__list-item-container">
                                     <header>
                                         2022 — Present
                                     </header>
-                                    <div class="experience-section__list-item-content">
+                                    <div className="experience-section__list-item-content">
                                         <h3>
                                             <div >
-                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight class="experience-section__icon" />
+                                                Junior Fullstack Engineer at <span>Artix.lt <FiArrowUpRight className="experience-section__icon" />
                                                 </span>
                                             </div>
                                         </h3>
@@ -167,14 +170,14 @@ const Experience = () => {
                         </li>
                         <li>
                             <a href="https://www.artix.lt" target="_blank" rel="noopener noreferrer">
-                                <div class="experience-section__list-item-container">
+                                <div className="experience-section__list-item-container">
                                     <header>
                                         2022 — Present
                                     </header>
-                                    <div class="experience-section__list-item-content">
+                                    <div className="experience-section__list-item-content">
                                         <h3>
                                             <div >
-                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight class="experience-section__icon" />
+                                                Junior Fullstack Engineer, <span>Artix.lt <FiArrowUpRight className="experience-section__icon" />
                                                 </span>
                                             </div>
                                         </h3>
