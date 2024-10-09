@@ -96,14 +96,15 @@
     margin-left: 4px;
     font-size: 16px;
     color: var(--primary-text);
-    transform:translate(0px, 0px);
+    transform:translate(0px, 4px);
     transition:var(--transition-primary);
 
 }
 
-.experience-section__list-item-container:hover .experience-section__icon {
+.experience-section__list-item-container:hover .experience-section__icon,
+.experience-section__download-resume a:hover .experience-section__icon {
     color: var(--hover-blue);
-    transform:translate(4px, -4px);
+    transform:translate(4px, 0px);
 }
 
 .experience-section__description {
@@ -137,6 +138,22 @@
     line-height: 20px;
     padding: 4px 12px;
     border-radius:50px;
+}
+
+.experience-section__download-resume {
+    margin-top:48px;
+}
+
+.experience-section__download-resume a {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    color: var(--primary-text);
+    text-align: left;
+    transition: var(--transition-primary);
+}
+.experience-section__download-resume a:hover {
+    color: var(--hover-blue);
 }
 /*=== MEDIA QUERY ===*/
 

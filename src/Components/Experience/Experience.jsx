@@ -220,6 +220,11 @@ const Experience = () => {
                             </a>
                         </li>
                     </ol>
+                    <div className="experience-section__download-resume">
+                        <a href="/Profile.pdf" download="Profile.pdf">
+                            View Full Résumé <FiArrowUpRight className="experience-section__icon" />
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
