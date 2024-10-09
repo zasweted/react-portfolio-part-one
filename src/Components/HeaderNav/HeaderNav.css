@@ -1,7 +1,9 @@
 .header__nav ul {
     margin-top:64px;
 }
-
+.header__nav li {
+    width:fit-content;
+}
 .header__nav a {
     display: flex;
     flex-direction: row;
