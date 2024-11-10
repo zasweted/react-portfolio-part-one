@@ -29,9 +29,11 @@
     background-color: var(--disabled-color);
 }
 
-.header__nav .nav__indicator.nav__active,
-.header__nav li:hover .nav__indicator {
+.header__nav .nav__indicator.nav__active {
     width:64px;
+    background-color: var(--primary-text);
+}
+.header__nav li:hover .nav__indicator {
     background-color: var(--primary-text);
 }
 
