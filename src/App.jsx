@@ -12,7 +12,7 @@ const App = () => {
   const handleScroll = () => {
   const offset = 96; // Padding adjustment
   const pageYOffset = window.pageYOffset + offset;
-  let newActiveSection = null;
+  var newActiveSection = null;
 
   sections.current.forEach((section, index) => {
     const sectionOffsetTop = section.offsetTop;
@@ -46,7 +46,7 @@ useEffect(() => {
 
   return (
     <div className='container'>
-      <Header setActiveSection={setActiveSection} activeSection={activeSection} />
+      <Header activeSection={activeSection} />
       <main id="content">
         <section id="about" data-section aria-label="About me">
           <About />

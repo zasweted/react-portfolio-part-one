@@ -3,7 +3,7 @@ import './Experience.css';
 import { FiArrowUpRight } from "react-icons/fi";
 
 
-const Experience = ({ isActive }) => {
+const Experience = () => {
 
 
 

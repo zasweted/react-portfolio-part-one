@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeaderNav.css';
 
-const HeaderNav = ({ setActiveSection, activeSection  }) => {
+const HeaderNav = ({ activeSection  }) => {
   return (
     <nav className="header__nav">
         <ul>

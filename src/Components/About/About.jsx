@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 
-const About = ({ isActive }) => {
+const About = () => {
     return (
         <>
             <div className="about-section__headding-mobile">

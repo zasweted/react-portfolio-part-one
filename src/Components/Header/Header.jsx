@@ -3,7 +3,7 @@ import './Header.css';
 import HeaderNav from '../HeaderNav/HeaderNav';
 import HeaderSocials from '../HeaderSocials/HeaderSocials';
 
-const Header = ({ setActiveSection, activeSection }) => {
+const Header = ({ activeSection }) => {
   return (
     <header className='header__sticky'>
         <div>
@@ -12,8 +12,7 @@ const Header = ({ setActiveSection, activeSection }) => {
             </a>
             <h2>Junior Fullstack Developer</h2>
             <p>I build pixel-perfect, engaging, and accessible digital experiences.</p>
-            <HeaderNav 
-            setActiveSection={setActiveSection} activeSection={activeSection} />
+            <HeaderNav activeSection={activeSection} />
         </div>
 
         <HeaderSocials />
