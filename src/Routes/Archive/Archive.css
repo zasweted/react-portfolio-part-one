@@ -1,6 +1,7 @@
 .archive__content {
     padding: 96px 0;
-
+    width:100%;
+    min-height:100vh;
 }
 
 .archive__link {
@@ -19,9 +20,123 @@
     transform:translateX(-5px)
 }
 .archive__content h1 {
+    width:100%;
     font-size: 48px;
     font-weight: 700;
     line-height: 48px;
     letter-spacing: -1.2px;
     color: var(--primary-text);
 }
+
+.archive__table {
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 48px;
+    text-indent: 0;
+    border-color: inherit;
+}
+
+.archive__table-head-sticky {
+    position:sticky;
+    top:0;
+    line-height: 26px;
+    padding:20px 24px;
+    z-index: 10;
+    background-color: rgba(15, 23, 42, .75);
+    backdrop-filter: blur(8px);
+    border-bottom:1px solid rgba(203, 213, 225, 0.1);
+}
+
+.archive__table-head-sticky th {
+    color:var(--primary-text);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 16px 32px 16px 1px;
+    line-height:20px
+}
+
+.archive__table tbody tr:not(:last-child) {
+    border-bottom:1px solid rgba(203, 213, 225, .1);
+}
+
+.archive__table tbody td {
+    padding:16px 16px 16px 1px;
+    vertical-align: top;
+}
+
+.archive__table-year {
+    width:5%;
+    font-size: 14px;
+    color: var(--secondary-text);
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.archive__table-title {
+    width:25%;
+    font-size: 16px;
+    color:var(--primary-text);
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.archive__table-made-at {
+    width:15%;
+    font-size: 14px;
+    color: var(--secondary-text);
+    font-weight: 500;
+    line-height: 20px;
+}
+.archive__table-built-with {
+    width:35%;
+}
+.archive__table-built-with ul {
+    
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    column-gap:6px;
+    row-gap:8px;
+}
+
+.archive__table-built-with li div{
+    background-color: var(--tags-bg);
+    color: var(--hover-blue);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 4px 12px;
+    border-radius:50px;
+}
+
+.archive__table-link {
+    width:20%;
+}
+
+.archive__table-link a {
+    width:15%;
+    font-size: 14px;
+    color: var(--secondary-text);
+    font-weight: 500;
+    line-height: 20px;
+    transition: var(--transition-primary);
+}
+
+.archive__table-link-icon {
+margin-left: 4px;
+font-size: 16px;
+color: var(--primary-text);
+transform:translate(-1px, 3px);
+transition:var(--transition-primary);
+}
+
+.archive__table-link a:hover,
+.archive__table-link a:hover .archive__table-link-icon {
+color: var(--hover-blue);
+}
+
+.archive__table-link a:hover .archive__table-link-icon {
+transform:translate(4px, 0px);
+}
+
