@@ -3,6 +3,7 @@ import Header from './Components/Header/Header'
 import About from './Components/About/About'
 import Experience from './Components/Experience/Experience'
 import Projects from './Components/Projects/Projects'
+import Footer from './Components/Footer/Footer'
 
 const App = () => {
 
@@ -57,6 +58,7 @@ useEffect(() => {
         <section id="projects" data-section aria-label="Projects">
           <Projects  />
         </section>
+        <Footer />
       </main>
     </div>
   )

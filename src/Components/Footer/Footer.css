@@ -1,0 +1,17 @@
+footer > p {
+    font-size: 14px;
+    line-height:20px;
+    font-weight:300;
+    color:var(--disabled-color);
+    transition: var(--primary-transition);
+}
+
+footer > p span, 
+footer > p a {
+    color:var(--secondary-text);
+    font-weight: 500;
+}
+
+footer > p a:hover {
+    color:var(--hover-blue);
+}

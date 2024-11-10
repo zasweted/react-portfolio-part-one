@@ -3,7 +3,8 @@
         "id": 1,
         "year" : "2023",
         "title": "Project 1",
-        "project_img": "../Assets/projectImages/portfolio-1.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-1.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [
@@ -20,7 +21,8 @@
         "id": 2,
         "year" : "2023",
         "title": "Project 2",
-        "project_img": "../Assets/projectImages/portfolio-2.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-2.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [
@@ -37,7 +39,8 @@
         "id": 3,
         "year" : "2023",
         "title": "Project 3",
-        "project_img": "../Assets/projectImages/portfolio-3.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-3.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [
@@ -54,7 +57,8 @@
         "id": 4,
         "year" : "2023",
         "title": "Project 4",
-        "project_img": "../Assets/projectImages/portfolio-4.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-4.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [
@@ -71,7 +75,8 @@
         "id": 5,
         "year" : "2023",
         "title": "Project 5",
-        "project_img": "../Assets/projectImages/portfolio-5.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-5.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [
@@ -88,7 +93,8 @@
         "id": 6,
         "year" : "2023",
         "title": "Project 6",
-        "project_img": "../Assets/projectImages/portfolio-6.jpg",
+        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
+        "project_img": "/Assets/projectImages/portfolio-6.jpg",
         "made_at": "Artix.lt",
         "project_url": "https://www.example.com",
         "build_with": [

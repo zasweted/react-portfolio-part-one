@@ -79,8 +79,10 @@ main#content {
     padding:96px 0;
 }
 
-section#about,
-section#experience {
-    scroll-margin-top: 96px;
-    margin-bottom: 144px;
+section {
+    scroll-margin-top: 96px;   
+}
+
+section:not(:last-child) {
+    padding-bottom: 144px;
 }
