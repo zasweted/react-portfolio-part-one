@@ -25,11 +25,6 @@ const App = () => {
     }
   });
 
-  // If no section is found (e.g., in "dead zones"), default to the first section
-  if (!newActiveSection && sections.current.length > 0) {
-    newActiveSection = sections.current[0].id;
-  }
-
   setActiveSection(newActiveSection);
 };
 
