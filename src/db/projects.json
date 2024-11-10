@@ -1,55 +1,51 @@
 [
     {
         "id": 1,
-        "year" : "2023",
+        "year" : "2021",
         "title": "Project 1",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-1.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "projectone.com",
         "project_url": "https://www.example.com",
         "build_with": [
             "Elementor",
-            "Wordpress",
-            "Woocommerce",
-            "PHP",
-            "jQuery",
-            "JavaScript"
+            "Wordpress"
         ]
 
     },
     {
         "id": 2,
-        "year" : "2023",
+        "year" : "2022",
         "title": "Project 2",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-2.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "petras.nori.dainuoti.eu",
         "project_url": "https://www.example.com",
         "build_with": [
             "Elementor",
             "Wordpress",
             "Woocommerce",
-            "PHP",
-            "jQuery",
-            "JavaScript"
+            "PHP"
         ]
 
     },
     {
         "id": 3,
-        "year" : "2023",
+        "year" : "2024",
         "title": "Project 3",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-3.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "kavamedis.shop.lt",
         "project_url": "https://www.example.com",
         "build_with": [
             "Elementor",
             "Wordpress",
             "Woocommerce",
             "PHP",
-            "jQuery",
-            "JavaScript"
+            "jQuery"
         ]
 
     },
@@ -60,6 +56,7 @@
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-4.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "projec.new.lt",
         "project_url": "https://www.example.com",
         "build_with": [
             "Elementor",
@@ -73,11 +70,12 @@
     },
     {
         "id": 5,
-        "year" : "2023",
+        "year" : "2020",
         "title": "Project 5",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-5.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "projectseven.io",
         "project_url": "https://www.example.com",
         "build_with": [
             "Elementor",
@@ -91,15 +89,14 @@
     },
     {
         "id": 6,
-        "year" : "2023",
+        "year" : "2018",
         "title": "Project 6",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-6.jpg",
         "made_at": "Artix.lt",
+        "project_url_title": "projectsix.com",
         "project_url": "https://www.example.com",
         "build_with": [
-            "Elementor",
-            "Wordpress",
             "Woocommerce",
             "PHP",
             "jQuery",
