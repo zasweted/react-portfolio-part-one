@@ -2,6 +2,7 @@ import React from 'react';
 import './Projects.css';
 import { FiArrowUpRight } from "react-icons/fi";
 import projectsData from '../../db/projects.json';
+import { Link } from 'react-router-dom';
 
 const Projects = () => {
     return (
@@ -49,9 +50,9 @@ const Projects = () => {
                         }
                     </ol>
                     <div className="projects-section__archive">
-                        <a href="/projects">
+                        <Link to="/archive" className="projects-section__link">
                             View Full Project Archive <FiArrowUpRight className="projects-section__icon" />
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </div>

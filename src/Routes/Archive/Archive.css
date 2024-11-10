@@ -1,0 +1,27 @@
+.archive__content {
+    padding: 96px 0;
+
+}
+
+.archive__link {
+    margin-bottom:8px;
+    color:var(--hover-blue);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.archive__back-to-home-icon {
+    margin-top: 1px;
+    transition: var(--transition-primary);
+    transform: translateX(0px);
+}
+.archive__link:hover .archive__back-to-home-icon {
+    transform:translateX(-5px)
+}
+.archive__content h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1.2px;
+    color: var(--primary-text);
+}
