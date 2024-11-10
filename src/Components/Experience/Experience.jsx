@@ -3,12 +3,12 @@ import './Experience.css';
 import { FiArrowUpRight } from "react-icons/fi";
 
 
-const Experience = () => {
+const Experience = ({ isActive }) => {
 
 
 
     return (
-        <section id="experience" aria-label="Experience">
+        <>
             <div className="experience-section__headding-mobile">
                 <h2>
                     Experience
@@ -227,7 +227,8 @@ const Experience = () => {
                     </div>
                 </div>
             </div>
-        </section>
+        </>
+
     )
 }
 

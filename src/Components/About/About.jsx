@@ -1,9 +1,9 @@
 import React from 'react';
 import './About.css';
 
-const About = () => {
+const About = ({ isActive }) => {
     return (
-        <section id="about" aria-label="About me">
+        <>
             <div className="about-section__headding-mobile">
                 <h2>
                     About me
@@ -20,7 +20,7 @@ const About = () => {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur recusandae magnam hic cupiditate, harum atque eius, esse, quod molestias iure in voluptatum sapiente! Iure, quibusdam!
                 </p>
             </div>
-        </section>
+        </>
     )
 }
 

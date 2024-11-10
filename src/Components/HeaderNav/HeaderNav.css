@@ -29,11 +29,13 @@
     background-color: var(--disabled-color);
 }
 
-.header__nav .nav__indicator.nav__active {
+.header__nav .nav__indicator.nav__active,
+.header__nav li:hover .nav__indicator {
     width:64px;
     background-color: var(--primary-text);
 }
 
-.header__nav .nav__text.nav__active {
+.header__nav .nav__text.nav__active,
+.header__nav li:hover .nav__text {
     color: var(--primary-text);
 }

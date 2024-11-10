@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 
 :root {
@@ -28,6 +28,10 @@
 ::-webkit-selection {
     background-color: var(--text-highlight-bg);
     color: var(--text-highlight-color);
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body,
@@ -75,7 +79,8 @@ main#content {
     padding:96px 0;
 }
 
-section#about {
+section#about,
+section#experience {
     scroll-margin-top: 96px;
     margin-bottom: 144px;
 }
