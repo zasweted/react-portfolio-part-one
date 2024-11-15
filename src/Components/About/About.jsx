@@ -6,7 +6,7 @@ const About = () => {
         <>
             <div className="about-section__headding-mobile">
                 <h2>
-                    About me
+                    About
                 </h2>
             </div>
             <div className='about-section__text-container'>

@@ -2,15 +2,15 @@
     width:50%;
     height:100vh;
     position:sticky;
-    padding:96px 0;
     top:0;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding: 96px 0;
 }
 
 .header__sticky h1 {
-    font-size: 48px;
+    font-size: 46px;
     font-weight: 700;
     line-height: 48px;
     letter-spacing: -1.2px;
@@ -37,4 +37,20 @@
 
 .header__nav span {
     transition:var(--transition-primary);
+}
+
+/*=== MEDIA QUERY ===*/
+
+@media screen and (max-width:1024px) {
+    
+    .header__sticky {
+        height:auto;
+        width:100%;
+        position:relative;
+        padding: 0;
+    }
+
+    .header__sticky h1 {
+        font-size: 48px;
+    }
 }

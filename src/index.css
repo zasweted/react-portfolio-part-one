@@ -1,29 +1,37 @@
+:root {
+    font-family: 'Inter', sans-serif;
+}
 
-
+@supports (font-variation-settings: normal) {
+    :root {
+        font-family: 'Inter var', sans-serif;
+        font-feature-settings: "ss03", "cv02", "cv11";
+    }
+}
 
 :root {
-    --primary-dark:#0f172a;
-    --primary-text:#E2E8F0;
-    --secondary-text:#94A3B8;
-    --hover-blue:#5eead4;
+    --primary-dark: #0f172a;
+    --primary-text: #E2E8F0;
+    --secondary-text: #94A3B8;
+    --hover-blue: #5eead4;
 
-    --disabled-color:#64748b;
+    --disabled-color: #64748b;
 
-    --text-highlight-bg:#57D9D5;
-    --text-highlight-color:#134e4a;
-    --experience-hover-bg:rgba(30, 41, 59, 0.5);
-    --tags-bg:rgba(45, 212, 191, .1);
+    --text-highlight-bg: #57D9D5;
+    --text-highlight-color: #134e4a;
+    --experience-hover-bg: rgba(30, 41, 59, 0.5);
+    --tags-bg: rgba(45, 212, 191, .1);
 
-    --transition-primary:all .15s cubic-bezier(.4,0,.2,1);
+    --transition-primary: all .15s cubic-bezier(.4, 0, .2, 1);
 
 
 }
 
 ::selection {
-    background-color: var(--text-highlight-bg); 
-    color: var(--text-highlight-color); 
+    background-color: var(--text-highlight-bg);
+    color: var(--text-highlight-color);
 }
-  
+
 /* For WebKit browsers (Chrome, Safari) */
 ::-webkit-selection {
     background-color: var(--text-highlight-bg);
@@ -42,11 +50,10 @@ body * {
     box-sizing: border-box;
 }
 
-body {
-    font-family: "Inter Tight", sans-serif;
-}
 
-ol, ul {
+
+ol,
+ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -55,34 +62,67 @@ ol, ul {
 a {
     text-decoration: none;
 }
+
 a,
 h2 {
-    color:var( --primary-text);
+    color: var(--primary-text);
 }
 
 p {
-    color:var(--secondary-text);
+    color: var(--secondary-text);
 }
 
 .container {
     max-width: 1280px;
     margin: 0 auto;
-    padding:0 96px;
     display: flex;
     flex-direction: row;
-    justify-content:space-between;
+    justify-content: space-between;
     column-gap: 16px;
+    padding: 0 96px;
 }
 
 main#content {
-    width:50%;
-    padding:96px 0;
+    width: 50%;
+    padding: 96px 0;
 }
 
 section {
-    scroll-margin-top: 96px;   
+    scroll-margin-top: 96px;
 }
 
 section:not(:last-child) {
     padding-bottom: 144px;
+}
+
+
+
+/*=== MEDIA QUERY ===*/
+
+@media screen and (max-width:1024px) {
+    .container {
+        padding: 80px 48px;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    main#content {
+        width: 100%;
+        padding: 96px 0 0 0;
+    }
+
+    section:not(:last-child) {
+        padding-bottom: 96px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .container {
+        padding: 48px 24px;
+
+    }
+
+    section:not(:last-child) {
+        padding-bottom: 64px;
+    }
 }

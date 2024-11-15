@@ -9,8 +9,7 @@ export const router = createBrowserRouter([
     path: '/',
     element: (
       <>
-        <ScrollToTop />
-        <App /> 
+        <App />
       </>
     ),
   },

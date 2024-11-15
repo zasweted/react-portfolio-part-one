@@ -14,14 +14,12 @@
     flex-direction:column;
     justify-content: flex-start;
     row-gap: 16px;
-    padding:24px;
 }
 
 .about-section__text-container p {
     font-size: 16px;
     font-weight: 500;
     line-height: 27px;
-    letter-spacing: 1px;
 }
 
 
@@ -31,5 +29,23 @@
 @media screen and (min-width:1024px) {
     .about-section__headding-mobile h2 {
         display:none;
+    }
+
+}
+@media screen and (max-width:1024px) {
+    
+    .about-section__text-container {
+        padding:0px;
+    }
+
+    .about-section__headding-mobile {
+        position:sticky;
+        top:0;
+        line-height: 26px;
+        padding:20px 48px;
+        margin:0 0 16px -48px;
+        z-index: 10;
+        background-color: rgba(15, 23, 42, .75);
+        backdrop-filter: blur(8px);
     }
 }

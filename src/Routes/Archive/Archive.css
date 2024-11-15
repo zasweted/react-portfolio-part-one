@@ -1,11 +1,17 @@
+.archive__container {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    column-gap: 16px;
+    padding:96px 0;
+}
+
 .archive__content {
-    padding: 96px 0;
     width:100%;
-    min-height:100vh;
+    padding:0 96px;
 }
 
 .archive__link {
-    margin-bottom:8px;
     color:var(--hover-blue);
     font-size: 16px;
     font-weight: 600;
@@ -26,6 +32,7 @@
     line-height: 48px;
     letter-spacing: -1.2px;
     color: var(--primary-text);
+    margin-top:8px;
 }
 
 .archive__table {
@@ -78,7 +85,7 @@
     font-size: 16px;
     color:var(--primary-text);
     font-weight: 600;
-    line-height: 20px;
+    line-height: 22px;
 }
 
 .archive__table-made-at {
@@ -140,3 +147,99 @@ color: var(--hover-blue);
 transform:translate(4px, 0px);
 }
 
+.archive__project-link-icon {
+    margin-left: 4px;
+    font-size: 16px;
+    color: var(--primary-text);
+    transform:translate(0px, 4px);
+    transition:var(--transition-primary);
+
+}
+
+.archive__project-link:hover .archive__project-link-icon {
+    color: var(--hover-blue);
+    transform:translate(4px, 0px);
+}
+
+.last-word-icon {
+    white-space: nowrap;
+  }
+  
+/*=== MEDIA QUERY ===*/
+
+@media screen and (max-width:1024px) {
+
+    .archive__container {
+        padding:80px 0;
+    }
+
+    .archive__content {
+        padding:0 48px;
+    }
+
+    .archive__table-made-at,
+    .archive__table-built-with,
+    .archive__table-head-sticky tr > th:nth-child(3),
+    .archive__table-head-sticky tr > th:nth-child(4) {
+        display:none;
+    }
+
+    .archive__table-year {
+        width:8%;
+    }
+
+    .archive__table-title {
+        width:57%;
+    }
+
+    .archive__table-link {
+        width:35%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    
+    .archive__container {
+        padding:48px 0;
+    }
+
+    .archive__content {
+        padding:0 24px;
+    }
+
+    .archive__table-year {
+        width:10%;
+    }
+
+    .archive__table-title {
+        width:47.5%;
+    }
+
+    .archive__table-link {
+        width:42.5%;
+    }
+}
+
+@media screen and (max-width:640px) {
+
+    .archive__table-link,
+    .archive__table-head-sticky tr > th:nth-child(5) {
+        display:none;
+    }
+
+    .archive__table-year {
+        width:8%;
+    }
+
+    .archive__table-title {
+        width:92%;
+    }
+
+    .archive__table-title > a{
+    transition:var(--transition-primary);
+    }
+    
+    .archive__table-title a:hover  {
+        color: var(--hover-blue);
+    }
+}
