@@ -2,7 +2,7 @@
     {
         "id": 1,
         "year" : "2021",
-        "title": "Project 1",
+        "title": "Elevate Your Brand with Strategic Web Solutions",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-1.jpg",
         "made_at": "Artix.lt",
@@ -17,7 +17,7 @@
     {
         "id": 2,
         "year" : "2022",
-        "title": "Project 2",
+        "title": "Atlas Interactive Solutions",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-2.jpg",
         "made_at": "Artix.lt",
@@ -34,7 +34,7 @@
     {
         "id": 3,
         "year" : "2024",
-        "title": "Project 3",
+        "title": "PulseVibe Media",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-3.jpg",
         "made_at": "Artix.lt",
@@ -52,7 +52,7 @@
     {
         "id": 4,
         "year" : "2023",
-        "title": "Project 4",
+        "title": "BrightWave Innovations",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-4.jpg",
         "made_at": "Artix.lt",
@@ -71,7 +71,7 @@
     {
         "id": 5,
         "year" : "2020",
-        "title": "Project 5",
+        "title": "Echo Market Connect",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-5.jpg",
         "made_at": "Artix.lt",
@@ -90,7 +90,7 @@
     {
         "id": 6,
         "year" : "2018",
-        "title": "Project 6",
+        "title": "Aurora Gateway Digital Agency",
         "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
         "project_img": "/Assets/projectImages/portfolio-6.jpg",
         "made_at": "Artix.lt",
