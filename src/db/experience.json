@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "date": "May 2011 – September 2015",
+        "position": "Chef Cook | Monte Cristo",
+        "company_url": "",
+        "description": "Managed kitchen operations and supervised staff. Designed seasonal menus and optimized ingredient usage to reduce costs.",
+        "skills_acquired": [
+            "Leadership",
+            "Organization",
+            "Creativity",
+            "Precision in execution"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "July 2016 – May 2018",
+        "position": "Kitchen Supervisor | Grill London",
+        "company_url": "",
+        "description": "Led a team of 12+ cooks in a busy chain restaurant. Ensured food quality, hygiene standards, and efficient team collaboration.",
+        "skills_acquired": [
+            "Team leadership",
+            "Problem-solving",
+            "Multitasking under pressure"
+        ]
+    },
+    {
+        "id": 3,
+        "date": "December 2022 – Present",
+        "position": "Junior Web Developer | Artix.lt",
+        "company_url": "http://www.artix.lt",
+        "description": "Developed and maintained websites using PHP, WordPress, Elementor, HTML, CSS, JS, and jQuery. Focused on delivering user-friendly and visually engaging web solutions. Demonstrated expertise in web development, problem-solving, and attention to detail.",
+        "skills_acquired": [
+            "PHP",
+            "WordPress",
+            "Elementor",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "jQuery"
+        ]
+    }
+]
