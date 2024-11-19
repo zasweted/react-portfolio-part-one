@@ -1,105 +1,210 @@
 [
     {
         "id": 1,
-        "year" : "2021",
-        "title": "Elevate Your Brand with Strategic Web Solutions",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-1.jpg",
+        "year" : "2024",
+        "title": "Iterno.lt | The Ultimate in Luxury, Durability and Style",
+        "short_description": "I created a sleek, user-friendly website for Iterno Flooring, highlighting their durable and elegant flooring solutions. The site features easy navigation and high-quality visuals to showcase the brand’s products, providing an engaging experience for visitors.",
+        "project_img": "/Assets/projectImages/iterno-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "projectone.com",
-        "project_url": "https://www.example.com",
+        "project_url_title": "interno.lt",
+        "project_url": "https://interno.114.lt/",
         "build_with": [
-            "Elementor",
-            "Wordpress"
+            "Wordpress",
+            "Bricks"
         ]
 
     },
     {
         "id": 2,
-        "year" : "2022",
-        "title": "Atlas Interactive Solutions",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-2.jpg",
+        "year" : "2024",
+        "title": "Europcar | Europe's largest car rental provider",
+        "short_description": "I developed a clean, user-friendly website for Europcar, Europe’s largest car rental provider. The site offers easy navigation to explore a wide range of vehicles and rental options, tailored to meet diverse customer needs with flexible pricing and terms.",
+        "project_img": "/Assets/projectImages/leaseuropcar-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "petras.nori.dainuoti.eu",
-        "project_url": "https://www.example.com",
+        "project_url_title": "leaseuropcar.lt",
+        "project_url": "https://leaseuropcar.lt/",
         "build_with": [
-            "Elementor",
             "Wordpress",
-            "Woocommerce",
-            "PHP"
+            "Bricks",
+            "CrocoBlock",
+            "PHP",
+            "JavaScript"
         ]
 
     },
     {
         "id": 3,
         "year" : "2024",
-        "title": "PulseVibe Media",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-3.jpg",
+        "title": "Neoparta | Genuine spare parts",
+        "short_description": "I created a sleek, informative website for Neoparta, a leading supplier of genuine automotive spare parts. The site serves as a company profile, showcasing their history, services, team members, and upcoming events where customers can meet them. It offers a clean design, easy navigation, and key contact details to help visitors learn more about Neoparta’s expertise and reach out directly.",
+        "project_img": "/Assets/projectImages/neoparta-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "kavamedis.shop.lt",
-        "project_url": "https://www.example.com",
+        "project_url_title": "neoparta.com",
+        "project_url": "https://neoparta.com/",
         "build_with": [
-            "Elementor",
             "Wordpress",
-            "Woocommerce",
-            "PHP",
-            "jQuery"
+            "Elementor",
+            "CrocoBlock",
+            "PHP"
         ]
 
     },
     {
         "id": 4,
-        "year" : "2023",
-        "title": "BrightWave Innovations",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-4.jpg",
+        "year" : "2024",
+        "title": " My Miracle Boutique | Certified 100% Mulberry silk",
+        "short_description": "I developed a user-friendly eCommerce website for My Miracle, offering unique, 100% Mulberry silk baby pillows. First of its kind in Lithuania and Europe, offering a luxurious solution for babies up to two years old.",
+        "project_img": "/Assets/projectImages/mymiracleboutique-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "projec.new.lt",
-        "project_url": "https://www.example.com",
+        "project_url_title": "mymiracleboutique.lt",
+        "project_url": "https://mymiracleboutique.lt/",
         "build_with": [
-            "Elementor",
             "Wordpress",
-            "Woocommerce",
-            "PHP",
-            "jQuery",
+            "Bricks",
+            "WooCommerce",
             "JavaScript"
         ]
 
     },
     {
         "id": 5,
-        "year" : "2020",
-        "title": "Echo Market Connect",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-5.jpg",
+        "year" : "2024",
+        "title": " Kavamedis | Coffee Shop Website",
+        "short_description": "I created a modern eCommerce website for Kavamedis, an online store specializing in high-quality coffee and related products. The site features an extensive, regularly updated catalog of coffee beans, ground coffee, capsules, and accessories, with a focus on user-friendly navigation and seamless shopping. It also highlights their fast delivery and personalized order services for both individuals and businesses.",
+        "project_img": "/Assets/projectImages/kavamedis-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "projectseven.io",
-        "project_url": "https://www.example.com",
+        "project_url_title": "kavamedis.shop",
+        "project_url": "https://kavamedis.shop/",
         "build_with": [
-            "Elementor",
             "Wordpress",
-            "Woocommerce",
+            "Bricks",
+            "WooCommerce",
             "PHP",
-            "jQuery",
             "JavaScript"
         ]
 
     },
     {
         "id": 6,
-        "year" : "2018",
-        "title": "Aurora Gateway Digital Agency",
-        "short_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore deserunt beatae fugit saepe quasi deleniti illum facere veniam delectus voluptatem itaque quibusdam amet nam architecto dolorum magni voluptate impedit reprehenderit modi error necessitatibus a, rerum quas. Voluptas, quisquam laborum perferendis tempore ex ullam inventore nisi ipsa quod doloremque vero quas distinctio fugit optio!",
-        "project_img": "/Assets/projectImages/portfolio-6.jpg",
+        "year" : "2024",
+        "title": " Funglandia | eShop Website",
+        "short_description": "I created a clean and user-friendly eCommerce site for Funglandia, making it easy for customers to browse and purchase mushroom cultivation products. The site offers intuitive navigation and detailed product information for a seamless shopping experience.",
+        "project_img": "/Assets/projectImages/funglandia-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "projectsix.com",
-        "project_url": "https://www.example.com",
+        "project_url_title": "funglandia.eu",
+        "project_url": "https://funglandia.eu/",
         "build_with": [
-            "Woocommerce",
+            "Wordpress",
+            "Elementor",
+            "WooCommerce"
+        ]
+
+    },
+    {
+        "id": 7,
+        "year" : "2024",
+        "title": " Jore | Real Estate Website",
+        "short_description": "I developed a modern website for JORE, showcasing their real estate projects with a focus on quality and client trust. The site was built based on a detailed Figma design, ensuring a polished and visually appealing user experience.",
+        "project_img": "/Assets/projectImages/joregroup-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "joregroup.lt",
+        "project_url": "https://joregroup.lt/",
+        "build_with": [
+            "Wordpress",
+            "Bricks",
+            "CrocoBlock",
             "PHP",
-            "jQuery",
+            "JavaScript",
+            "Figma"
+        ]
+
+    },
+    {
+        "id": 8,
+        "year" : "2024",
+        "title": " FinFun | eShop Website",
+        "short_description": "I built a large, dynamic eCommerce site for FinFun, designed to showcase a diverse selection of international snacks, drinks, and specialty foods. The site features intuitive navigation, vibrant visuals, and a seamless shopping experience, making it easy for customers to explore and discover new flavors.",
+        "project_img": "/Assets/projectImages/finfun-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "finfun.lt",
+        "project_url": "https://finfun.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Bricks",
+            "CrocoBlock",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 9,
+        "year" : "2024",
+        "title": " Lietuviški laikrodžiai | Handcrafted Watches Catalog Website",
+        "short_description": "A handcrafted watch catalog website built to present unique creations and custom designs. The website emphasizes a clean and elegant design, ensuring seamless navigation and showcasing the artistry behind each watch.",
+        "project_img": "/Assets/projectImages/lietuviskilaikrodziai-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "lietuviskilaikrodziai.lt",
+        "project_url": "https://lietuviskilaikrodziai.lt/",
+        "build_with": [
+            "Wordpress",
+            "Bricks",
+            "CrocoBlock",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 10,
+        "year" : "2023",
+        "title": " Assutaeurope | A modern private medical centre in Israel",
+        "short_description": "I developed an informative website for Assuta Medical Center, focusing on presenting key details about its advanced healthcare services and world-class facilities. The site highlights the clinic's expertise, innovative technologies, and commitment to patient care, ensuring clear and accessible information for its global audience.",
+        "project_img": "/Assets/projectImages/assutaeurope-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "assutaeurope.lt",
+        "project_url": "https://assutaeurope.lt/",
+        "build_with": [
+            "Wordpress",
+            "Elementor",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 11,
+        "year" : "2023",
+        "title": " Kartecha | Manufacturer of original parts for municipal machinery in Lithuania",
+        "short_description": "I built a parts catalogue website for KARTECHA, a leading supplier of original and replacement parts for municipal machinery in Lithuania. The website serves as a comprehensive resource, showcasing their extensive product range and providing easy access to detailed parts information, catering to customers in Lithuania and Central Europe. The site is designed to efficiently support the company's reputation for quality, expertise, and reliable service in the industry.",
+        "project_img": "/Assets/projectImages/kartecha-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "kartecha.lt",
+        "project_url": "https://kartecha.lt/",
+        "build_with": [
+            "Wordpress",
+            "Bricks",
+            "CrocoBlock",
+            "PHP",
+            "JavaScript",
+            "XML Imports"
+        ]
+
+    },
+    {
+        "id": 12,
+        "year" : "2023",
+        "title": " Durų spynos | Mul-T-Lock - official representative in Lithuania",
+        "short_description": "I developed an eShop for a company offering high-security locks, keys, and cylinders from Mul-T-Lock, the official representative in Lithuania. The website showcases their product catalog and allows customers to easily browse and purchase security solutions, including locks, cylinders, and electronic systems. The platform provides a seamless shopping experience with detailed product information.",
+        "project_img": "/Assets/projectImages/duruspynos-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "www.duruspynos.lt",
+        "project_url": "https://www.duruspynos.lt/",
+        "build_with": [
+            "Wordpress",
+            "Bricks",
+            "WooCommerce",
+            "PHP",
             "JavaScript"
         ]
 
