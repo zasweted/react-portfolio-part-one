@@ -25,7 +25,7 @@ const Header = ({ activeSection }) => {
           <h1>Aleksandr Vasiljev</h1>
         </a>
         <h2>Junior Fullstack Developer</h2>
-        <p>I build pixel-perfect, engaging, and accessible digital experiences.</p>
+        <p>A digital artisan crafting seamless and engaging fullstack web applications with <span>WordPress</span>, blending functionality and aesthetics to deliver exceptional user experiences.</p>
 
         {isTablet ? (
           null

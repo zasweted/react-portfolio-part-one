@@ -20,27 +20,27 @@ const HeaderSocials = () => {
                 </a>
             </li>
             <li>
-                <a href="https://github.com/zasweted" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+                <a href="https://www.linkedin.com/in/aleksandr-vasiljev-320210247/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
                     <FaLinkedin className='heaer__socials-icon' />
                 </a>
             </li>
             <li>
-                <a href="https://github.com/zasweted" target="_blank" rel="noopener noreferrer" title="FaceBook">
+                <a href="https://www.facebook.com/aleksandr.vasiljev" target="_blank" rel="noopener noreferrer" title="FaceBook">
                     <FaFacebook className='heaer__socials-icon' />
                 </a>
             </li>
             <li>
-                <a href="https://github.com/zasweted" target="_blank" rel="noopener noreferrer" title="Discord">
+                <a href="https://discordapp.com/users/134624851846627329" target="_blank" rel="noopener noreferrer" title="Discord">
                     <FaDiscord className='heaer__socials-icon' />
                 </a>
             </li>
             <li>
-                <a href="https://github.com/zasweted" target="_blank" rel="noopener noreferrer" title="Email">
+                <a href="mailto:zaswet@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
                     <FaEnvelope className='heaer__socials-icon' />
                 </a>
             </li>
             <li>
-                <a href="https://github.com/zasweted" target="_blank" rel="noopener noreferrer" title="Mobile">
+                <a href="tel:+37060772868" target="_blank" rel="noopener noreferrer" title="Mobile">
                     <FaMobileScreenButton className='heaer__socials-icon' />
                 </a>
             </li>

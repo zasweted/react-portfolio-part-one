@@ -27,12 +27,17 @@
 }
 
 .header__sticky p {
-    max-width: 320px;
+    max-width: 420px;
     margin-top: 16px;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     color: var(--secondary-text);
+}
+
+.header__sticky p span {
+    font-weight: 500;
+    color:var(--primary-text);
 }
 
 .header__nav span {

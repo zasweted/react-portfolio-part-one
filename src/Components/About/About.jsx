@@ -1,6 +1,7 @@
 import React from 'react';
 import './About.css';
 
+
 const About = () => {
     return (
         <>
@@ -11,14 +12,16 @@ const About = () => {
             </div>
             <div className='about-section__text-container'>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam aperiam distinctio dolores sint pariatur eius minus dolore, laudantium recusandae. Dolor hic fugiat qui commodi rerum debitis cum, dolore ducimus vero, odio dicta praesentium vitae ad labore iure! In, sit veritatis?
+                    I am <span>Aleksandr Vasiljev</span>, a <span>Junior Web Developer</span> at <span>Artix.lt</span> based in <span>Vilnius, Lithuania</span>.
                 </p>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam aperiam distinctio dolores sint pariatur eius minus dolore, laudantium recusandae. Dolor hic fugiat qui commodi rerum debitis cum, dolore ducimus vero, odio dicta praesentium vitae ad labore iure! In, sit veritatis?
+                    Before transitioning to web development, I spent <span>15+ years as a professional chef</span>, where I mastered time management, teamwork, and precision—skills that now drive my success in IT. My background in the culinary field has honed my ability to think creatively and solve problems effectively, giving me a unique edge in project execution.
                 </p>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur recusandae magnam hic cupiditate, harum atque eius, esse, quod molestias iure in voluptatum sapiente! Iure, quibusdam!
+                    My career shift was fueled by a passion for technology, leading me to complete <span>PHP and Laravel studies</span> at the <span>Baltic Institute of Technology</span> in 2022. I now specialize in <span>PHP</span>, <span>WordPress</span>, <span>Elementor</span>, <span>HTML</span>, <span>CSS</span>, <span>JS</span>, and <span>jQuery</span>, combining my diverse experience with technical expertise to deliver creative and efficient web solutions.
                 </p>
+
+
             </div>
         </>
     )

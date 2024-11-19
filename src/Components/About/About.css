@@ -22,7 +22,10 @@
     line-height: 27px;
 }
 
-
+.about-section__text-container p span {
+    font-weight: 500;
+    color:var(--primary-text);
+}
 
 /*=== MEDIA QUERY ===*/
 

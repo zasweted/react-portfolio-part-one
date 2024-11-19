@@ -14,7 +14,8 @@
 }
 
 
-.experience-section__list a {
+.experience-section__list a,
+.experience-section__list .experience__section-wrapper {
     padding:24px;
     display: block;
 }
@@ -198,7 +199,8 @@
         z-index: 1;
     }
 
-    .experience-section__list a {
+    .experience-section__list a,
+    .experience-section__list .experience__section-wrapper {
         padding:0px;
     }
 
