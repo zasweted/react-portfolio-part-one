@@ -2,12 +2,12 @@
     {
         "id": 1,
         "year" : "2024",
-        "title": "Iterno.lt | The Ultimate in Luxury, Durability and Style",
+        "title": "Iterno.eu | The Ultimate in Luxury, Durability and Style",
         "short_description": "I created a sleek, user-friendly website for Iterno Flooring, highlighting their durable and elegant flooring solutions. The site features easy navigation and high-quality visuals to showcase the brand’s products, providing an engaging experience for visitors.",
         "project_img": "/Assets/projectImages/iterno-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "interno.lt",
-        "project_url": "https://interno.114.lt/",
+        "project_url_title": "iterno.eu",
+        "project_url": "https://iterno.eu/",
         "build_with": [
             "Wordpress",
             "Bricks"
@@ -198,12 +198,230 @@
         "short_description": "I developed an eShop for a company offering high-security locks, keys, and cylinders from Mul-T-Lock, the official representative in Lithuania. The website showcases their product catalog and allows customers to easily browse and purchase security solutions, including locks, cylinders, and electronic systems. The platform provides a seamless shopping experience with detailed product information.",
         "project_img": "/Assets/projectImages/duruspynos-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "www.duruspynos.lt",
+        "project_url_title": "duruspynos.lt",
         "project_url": "https://www.duruspynos.lt/",
         "build_with": [
             "Wordpress",
             "Bricks",
             "WooCommerce",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 13,
+        "year" : "2024",
+        "title": "Naturamer | Sustainable Micronutrient Fertilizers",
+        "short_description": "Naturamer offers sustainable micronutrient fertilizers from Lithuania, designed to enhance crop yield and support eco-friendly, healthy soil ecosystems.",
+        "project_img": "/Assets/projectImages/naturamer-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "naturamer.com",
+        "project_url": "https://naturamer.com/",
+        "build_with": [
+            "Wordpress",
+            "Elementor",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 14,
+        "year" : "2024",
+        "title": "Ederas | Building engineering systems maintenance",
+        "short_description": "Ederas is a team of experts offering maintenance services for building engineering systems. Installation and maintenance of air conditioning, ventilation, electrical, automation and alarm systems.",
+        "project_img": "/Assets/projectImages/ederas-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "ederas.lt",
+        "project_url": "https://ederas.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 15,
+        "year" : "2024",
+        "title": "Fireworks Online | Fireworks in Lithuania",
+        "short_description": "I developed an e-commerce platform for a leading fireworks retailer in Lithuania using WordPress and Bricks Builder. The site features an intuitive catalog for browsing and purchasing pyrotechnic products, with detailed descriptions and safety information to ensure compliance.",
+        "project_img": "/Assets/projectImages/fejerverkai-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "fejerverkaiinternetu.lt",
+        "project_url": "https://fejerverkaiinternetu.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 16,
+        "year" : "2023",
+        "title": "Technoarka | Professional Home Appliances and Furniture Specialists",
+        "short_description": "I developed Technoarka.lt using WordPress and the powerful Elementor page builder. The site is designed to provide an engaging user experience with a clean, modern design and intuitive navigation. Leveraging Elementor’s drag-and-drop functionality, I created fully customized layouts, including dynamic pages and reusable design elements.",
+        "project_img": "/Assets/projectImages/technoarka-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "technoarka.lt",
+        "project_url": "https://technoarka.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 17,
+        "year" : "2024",
+        "title": "Svajutis.lt | Accessories, Clothes for children and adults",
+        "short_description": "I developed Svajutis.lt as a clean and minimalistic e-commerce platform using WordPress . The site offers a seamless shopping experience with an intuitive design, catering to a wide range of stylish accessories and clothing for both children and adults.",
+        "project_img": "/Assets/projectImages/svajutis-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "svajutis.lt",
+        "project_url": "https://svajutis.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 18,
+        "year" : "2024",
+        "title": "Siurbliu Technikos Centras | Water preparation and processing.",
+        "short_description": "Siurbliu technikos centras - Deals with the full range of water preparation and water processing.",
+        "project_img": "/Assets/projectImages/stc-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "stc-water.com",
+        "project_url": "https://stc-water.com/",
+        "build_with": [
+            "Wordpress",
+            "Bricks",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 19,
+        "year" : "2023",
+        "title": "Prie Sendvario | World of Exclusive Fishing Gear and Tackle.",
+        "short_description": "Siurbliu technikos centras - Deals with the full range of water preparation and water processing.",
+        "project_img": "/Assets/projectImages/priesendvario-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "priesendvario.lt",
+        "project_url": "https://priesendvario.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 20,
+        "year" : "2023",
+        "title": "R&E BYG ApS | Ultimate solution for all your renovation needs.",
+        "short_description": "Select a renovation service and we will bring it to life. It's a partnership that works! We have customized renovation solutions for you.",
+        "project_img": "/Assets/projectImages/rebygaps-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "rebygaps.dk/en/",
+        "project_url": "https://rebygaps.dk/en/",
+        "build_with": [
+            "Wordpress",
+            "Elementor",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 21,
+        "year" : "2023",
+        "title": "Nanosky | Innovative Light Design.",
+        "short_description": "The e-shop offers chandeliers and lighting solutions of exceptional quality and design, allowing you to unleash your creativity, realise long-cherished ideas, or be inspired by never-before-seen lighting effects.",
+        "project_img": "/Assets/projectImages/nanosky-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "nanosky.lt",
+        "project_url": "https://www.nanosky.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        ]
+
+    },
+    {
+        "id": 22,
+        "year" : "2023",
+        "title": "Saulės midus | the hives given to us by our mother, have now turned into a business.",
+        "short_description": "Saulės midus is located in a beautiful suburb of Šiauliai, on the way to the Hill of Crosses, next to a beekeeping farm.",
+        "project_img": "/Assets/projectImages/saulesmidus-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "saulesmidus.lt",
+        "project_url": "https://saulesmidus.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 23,
+        "year" : "2023",
+        "title": "Linkuvos mėsa | Flavoursome and natural smoked and fried meat products.",
+        "short_description": "Smoked and fried products made from the freshest meat. Meat products with a taste you can't forget.",
+        "project_img": "/Assets/projectImages/linkuvos-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "linkuvosmesa.lt",
+        "project_url": "https://linkuvosmesa.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
+            "PHP",
+            "JavaScript"
+        ]
+
+    },
+    {
+        "id": 24,
+        "year" : "2023",
+        "title": "Ekomanai | Heat pumps and solar power plants.",
+        "short_description": "Smoked and fried products made from the freshest meat. Meat products with a taste you can't forget.",
+        "project_img": "/Assets/projectImages/ekomanai-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "ekomanai.lt",
+        "project_url": "https://ekomanai.lt/",
+        "build_with": [
+            "Wordpress",
+            "WooCommerce",
+            "Elementor",
             "PHP",
             "JavaScript"
         ]
