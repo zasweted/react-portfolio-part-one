@@ -4,12 +4,13 @@ footer > p {
     font-weight:300;
     color:var(--disabled-color);
     transition: var(--primary-transition);
+    margin-bottom: 16px;
 }
 
 footer > p span, 
 footer > p a {
-    color:var(--secondary-text);
     font-weight: 500;
+    color: var(--primary-text);
 }
 
 footer > p a:hover {

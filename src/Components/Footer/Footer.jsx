@@ -4,9 +4,15 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer>
-        <p>
-            Lorem ipsum dolor, <span>sit amet consectetur</span> sit amet consectetur adipisicing elit. Minima quam, vero quibusdam vel atque deserunt dolore odit nulla voluptate ad. Ipsa iusto animi eaque rem quae aliquid sequi minima quasi atque, unde <a href="www.example.com">molestias dolores placeat</a> et magnam ipsum laborum a vitae quidem nihil aspernatur dolorum perspiciatis esse. Vel, beatae fuga.
-        </p>
+      <p>
+        This website was built using <span>React.js</span>. It is designed to be lightweight, responsive, and optimized for showcasing my work.
+      </p>
+      <p>
+        The projects displayed on this portfolio are intended for demonstration purposes only. The live versions of these websites may differ from what is presented here.
+      </p>
+      <p>
+        This portfolio is not responsible for any discrepancies between the showcased work and the current live sites.
+      </p>
     </footer>
   )
 }
