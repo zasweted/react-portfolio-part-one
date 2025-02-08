@@ -49,7 +49,7 @@ const Archive = () => {
                     </td>
                     <td className='archive__table-title'>
                       {isMobile ? (
-                        <a href={project.project_url} className="archive__project-link">
+                        <a href={project.project_url} target="_blank" rel="noopener noreferrer" className="archive__project-link">
                           {(() => {
                             const titleWords = project.title.trim().split(" ");
                             const lastWord = titleWords.pop(); // Extract the last word
