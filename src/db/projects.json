@@ -554,8 +554,8 @@
         "short_description": "I developed AzijaPanda.lt, an Asian grocery store website, using WordPress and WooCommerce. The site offers a wide variety of Asian flavors, featuring an intuitive design and seamless shopping experience. Built with Bricks Builder, PHP, and JavaScript, the platform ensures easy navigation and efficient product browsing for customers in Lithuania.",
         "project_img": "/Assets/projectImages/azijapanda-main.jpg",
         "made_at": "Artix.lt",
-        "project_url_title": "verosofa.lt",
-        "project_url": "https://verosofa.lt/",
+        "project_url_title": "azijapanda.lt",
+        "project_url": "https://azijapanda.lt/",
         "build_with": [
             "WordPress",
             "WooCommerce",
