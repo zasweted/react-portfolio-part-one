@@ -3,13 +3,13 @@
         "id": 1,
         "year" : "2024",
         "title": "Iterno.eu | The Ultimate in Luxury, Durability and Style",
-        "short_description": "I created a sleek, user-friendly website for Iterno Flooring, highlighting their durable and elegant flooring solutions. The site features easy navigation and high-quality visuals to showcase the brand’s products, providing an engaging experience for visitors.",
+        "short_description": "I developed Iterno.eu, a sleek and user-friendly website for Iterno Flooring, highlighting their durable and elegant flooring solutions. Using WordPress and Bricks Builder, the site features high-quality visuals, easy navigation, and an engaging experience for visitors seeking premium flooring options.",
         "project_img": "/Assets/projectImages/iterno-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "iterno.eu",
         "project_url": "https://iterno.eu/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks"
         ]
 
@@ -18,13 +18,13 @@
         "id": 2,
         "year" : "2024",
         "title": "Europcar | Europe's largest car rental provider",
-        "short_description": "I developed a clean, user-friendly website for Europcar, Europe’s largest car rental provider. The site offers easy navigation to explore a wide range of vehicles and rental options, tailored to meet diverse customer needs with flexible pricing and terms.",
+        "short_description": "I created a clean and user-friendly website for Europcar, Europe’s largest car rental provider, using WordPress and Bricks Builder. The site offers easy navigation to explore a wide range of vehicles and rental options, tailored to meet diverse customer needs. Built with PHP, JavaScript, and CrocoBlock, the platform ensures a seamless experience for users.",
         "project_img": "/Assets/projectImages/leaseuropcar-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "leaseuropcar.lt",
         "project_url": "https://leaseuropcar.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "CrocoBlock",
             "PHP",
@@ -36,13 +36,13 @@
         "id": 3,
         "year" : "2024",
         "title": "Neoparta | Genuine spare parts",
-        "short_description": "I created a sleek, informative website for Neoparta, a leading supplier of genuine automotive spare parts. The site serves as a company profile, showcasing their history, services, team members, and upcoming events where customers can meet them. It offers a clean design, easy navigation, and key contact details to help visitors learn more about Neoparta’s expertise and reach out directly.",
+        "short_description": "I developed Neoparta.com, a sleek and informative website for Neoparta, a leading supplier of genuine automotive spare parts. Using WordPress and Elementor, the site serves as a company profile, showcasing their history, services, and team members. The clean design and easy navigation make it simple for visitors to learn more about their expertise.",
         "project_img": "/Assets/projectImages/neoparta-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "neoparta.com",
         "project_url": "https://neoparta.com/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Elementor",
             "CrocoBlock",
             "PHP"
@@ -53,13 +53,13 @@
         "id": 4,
         "year" : "2024",
         "title": " My Miracle Boutique | Certified 100% Mulberry silk",
-        "short_description": "I developed a user-friendly eCommerce website for My Miracle, offering unique, 100% Mulberry silk baby pillows. First of its kind in Lithuania and Europe, offering a luxurious solution for babies up to two years old.",
+        "short_description": "I built My Miracle Boutique’s eCommerce website using WordPress, Bricks Builder, and WooCommerce. The site offers unique, 100% Mulberry silk baby pillows, the first of its kind in Lithuania and Europe. The platform provides a luxurious shopping experience with intuitive navigation and seamless transactions.",
         "project_img": "/Assets/projectImages/mymiracleboutique-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "mymiracleboutique.lt",
         "project_url": "https://mymiracleboutique.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "WooCommerce",
             "JavaScript"
@@ -70,13 +70,13 @@
         "id": 5,
         "year" : "2024",
         "title": " Kavamedis | Coffee Shop Website",
-        "short_description": "I created a modern eCommerce website for Kavamedis, an online store specializing in high-quality coffee and related products. The site features an extensive, regularly updated catalog of coffee beans, ground coffee, capsules, and accessories, with a focus on user-friendly navigation and seamless shopping. It also highlights their fast delivery and personalized order services for both individuals and businesses.",
+        "short_description": "I created kavamedis.shop, a modern eCommerce website for an online store specializing in high-quality coffee and related products. Using WordPress, Bricks Builder, and WooCommerce, the site features an extensive catalog of coffee beans, ground coffee, capsules, and accessories. The platform ensures a user-friendly shopping experience with fast delivery options.",
         "project_img": "/Assets/projectImages/kavamedis-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "kavamedis.shop",
         "project_url": "https://kavamedis.shop/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "WooCommerce",
             "PHP",
@@ -88,13 +88,13 @@
         "id": 6,
         "year" : "2024",
         "title": " Funglandia | eShop Website",
-        "short_description": "I created a clean and user-friendly eCommerce site for Funglandia, making it easy for customers to browse and purchase mushroom cultivation products. The site offers intuitive navigation and detailed product information for a seamless shopping experience.",
+        "short_description": "I developed Funglandia.lt, a clean and user-friendly eCommerce site for mushroom cultivation products. Built with WordPress, Elementor, and WooCommerce, the platform offers intuitive navigation and detailed product information, ensuring a seamless shopping experience for customers.",
         "project_img": "/Assets/projectImages/funglandia-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "funglandia.eu",
         "project_url": "https://funglandia.eu/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Elementor",
             "WooCommerce"
         ]
@@ -104,13 +104,13 @@
         "id": 7,
         "year" : "2024",
         "title": " Jore | Real Estate Website",
-        "short_description": "I developed a modern website for JORE, showcasing their real estate projects with a focus on quality and client trust. The site was built based on a detailed Figma design, ensuring a polished and visually appealing user experience.",
+        "short_description": "I created Joregroup.lt, a modern website showcasing their real estate projects with a focus on quality and client trust. Using WordPress and Bricks Builder, the site was built based on a detailed Figma design, ensuring a polished and visually appealing user experience.",
         "project_img": "/Assets/projectImages/joregroup-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "joregroup.lt",
         "project_url": "https://joregroup.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "CrocoBlock",
             "PHP",
@@ -123,13 +123,13 @@
         "id": 8,
         "year" : "2024",
         "title": " FinFun | eShop Website",
-        "short_description": "I built a large, dynamic eCommerce site for FinFun, designed to showcase a diverse selection of international snacks, drinks, and specialty foods. The site features intuitive navigation, vibrant visuals, and a seamless shopping experience, making it easy for customers to explore and discover new flavors.",
+        "short_description": "I built FinFun.lt, a dynamic eCommerce site showcasing a diverse selection of international snacks, drinks, and specialty foods. Using WordPress, WooCommerce, and Bricks Builder, the platform features vibrant visuals, intuitive navigation, and a seamless shopping experience for customers exploring new flavors.",
         "project_img": "/Assets/projectImages/finfun-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "finfun.lt",
         "project_url": "https://finfun.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Bricks",
             "CrocoBlock",
@@ -142,17 +142,15 @@
         "id": 9,
         "year" : "2024",
         "title": " Lietuviški laikrodžiai | Handcrafted Watches Catalog Website",
-        "short_description": "A handcrafted watch catalog website built to present unique creations and custom designs. The website emphasizes a clean and elegant design, ensuring seamless navigation and showcasing the artistry behind each watch.",
+        "short_description": "I developed LietuviškiLaikrodžiai.lt, a handcrafted watch catalog website, using WordPress and Bricks Builder. The site emphasizes a clean and elegant design, showcasing unique creations and custom designs with seamless navigation.",
         "project_img": "/Assets/projectImages/lietuviskilaikrodziai-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "lietuviskilaikrodziai.lt",
         "project_url": "https://lietuviskilaikrodziai.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
-            "CrocoBlock",
-            "PHP",
-            "JavaScript"
+            "CrocoBlock"
         ]
 
     },
@@ -160,13 +158,13 @@
         "id": 10,
         "year" : "2023",
         "title": " Assutaeurope | A modern private medical centre in Israel",
-        "short_description": "I developed an informative website for Assuta Medical Center, focusing on presenting key details about its advanced healthcare services and world-class facilities. The site highlights the clinic's expertise, innovative technologies, and commitment to patient care, ensuring clear and accessible information for its global audience.",
+        "short_description": "I developed Assutaeurope.lt, an informative website for Assuta Medical Center, using WordPress and Elementor. The site highlights advanced healthcare services, innovative technologies, and patient care, ensuring clear and accessible information for a global audience.",
         "project_img": "/Assets/projectImages/assutaeurope-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "assutaeurope.lt",
         "project_url": "https://assutaeurope.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Elementor",
             "CrocoBlock"
         ]
@@ -176,17 +174,16 @@
         "id": 11,
         "year" : "2023",
         "title": " Kartecha | Manufacturer of original parts for municipal machinery in Lithuania",
-        "short_description": "I built a parts catalogue website for KARTECHA, a leading supplier of original and replacement parts for municipal machinery in Lithuania. The website serves as a comprehensive resource, showcasing their extensive product range and providing easy access to detailed parts information, catering to customers in Lithuania and Central Europe. The site is designed to efficiently support the company's reputation for quality, expertise, and reliable service in the industry.",
+        "short_description": "I built Kartecha.lt, a parts catalog website for KARTECHA, using WordPress and Bricks Builder. The platform showcases their extensive product range and provides easy access to detailed parts information, catering to customers in Lithuania and Central Europe.",
         "project_img": "/Assets/projectImages/kartecha-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "kartecha.lt",
         "project_url": "https://kartecha.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "CrocoBlock",
             "PHP",
-            "JavaScript",
             "XML Imports"
         ]
 
@@ -195,16 +192,15 @@
         "id": 12,
         "year" : "2023",
         "title": " Durų spynos | Mul-T-Lock - official representative in Lithuania",
-        "short_description": "I developed an eShop for a company offering high-security locks, keys, and cylinders from Mul-T-Lock, the official representative in Lithuania. The website showcases their product catalog and allows customers to easily browse and purchase security solutions, including locks, cylinders, and electronic systems. The platform provides a seamless shopping experience with detailed product information.",
+        "short_description": "I developed Durų Spynos.lt, an eShop for high-security locks and keys, using WordPress, Bricks Builder, and WooCommerce. The site offers a seamless shopping experience with detailed product information and easy navigation.",
         "project_img": "/Assets/projectImages/duruspynos-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "duruspynos.lt",
         "project_url": "https://www.duruspynos.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "Bricks",
             "WooCommerce",
-            "PHP",
             "JavaScript"
         ]
 
@@ -213,16 +209,14 @@
         "id": 13,
         "year" : "2024",
         "title": "Naturamer | Sustainable Micronutrient Fertilizers",
-        "short_description": "Naturamer offers sustainable micronutrient fertilizers from Lithuania, designed to enhance crop yield and support eco-friendly, healthy soil ecosystems.",
+        "short_description": "I created Naturamer.com, a website for sustainable micronutrient fertilizers, using WordPress and Elementor. The platform highlights eco-friendly fertilizers designed to enhance crop yield and support healthy soil ecosystems.",
         "project_img": "/Assets/projectImages/naturamer-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "naturamer.com",
         "project_url": "https://naturamer.com/",
         "build_with": [
-            "Wordpress",
-            "Elementor",
-            "PHP",
-            "JavaScript"
+            "WordPress",
+            "Elementor"
         ]
 
     },
@@ -230,17 +224,15 @@
         "id": 14,
         "year" : "2024",
         "title": "Ederas | Building engineering systems maintenance",
-        "short_description": "Ederas is a team of experts offering maintenance services for building engineering systems. Installation and maintenance of air conditioning, ventilation, electrical, automation and alarm systems.",
+        "short_description": "I developed Ederas.lt, a website for building engineering systems maintenance services, using WordPress, WooCommerce, and Bricks Builder. The site showcases their expertise in air conditioning, ventilation, electrical, and automation systems.",
         "project_img": "/Assets/projectImages/ederas-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "ederas.lt",
         "project_url": "https://ederas.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Bricks",
-            "PHP",
-            "JavaScript",
             "CrocoBlock"
         ]
 
@@ -249,17 +241,15 @@
         "id": 15,
         "year" : "2024",
         "title": "Fireworks Online | Fireworks in Lithuania",
-        "short_description": "I developed an e-commerce platform for a leading fireworks retailer in Lithuania using WordPress and Bricks Builder. The site features an intuitive catalog for browsing and purchasing pyrotechnic products, with detailed descriptions and safety information to ensure compliance.",
+        "short_description": "I built FejerverkaiInternetu.lt e-commerce platform using WordPress and Bricks Builder. The site features an intuitive catalog for browsing and purchasing pyrotechnic products, with detailed descriptions and safety information to ensure compliance.",
         "project_img": "/Assets/projectImages/fejerverkai-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "fejerverkaiinternetu.lt",
         "project_url": "https://fejerverkaiinternetu.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Bricks",
-            "PHP",
-            "JavaScript",
             "CrocoBlock"
         ]
 
@@ -268,17 +258,15 @@
         "id": 16,
         "year" : "2023",
         "title": "Technoarka | Professional Home Appliances and Furniture Specialists",
-        "short_description": "I developed Technoarka.lt using WordPress and the powerful Elementor page builder. The site is designed to provide an engaging user experience with a clean, modern design and intuitive navigation. Leveraging Elementor’s drag-and-drop functionality, I created fully customized layouts, including dynamic pages and reusable design elements.",
+        "short_description": "I developed Technoarka.lt using WordPress and Elementor. The site provides an engaging user experience with a clean, modern design and intuitive navigation.",
         "project_img": "/Assets/projectImages/technoarka-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "technoarka.lt",
         "project_url": "https://technoarka.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Elementor",
-            "PHP",
-            "JavaScript",
             "CrocoBlock"
         ]
 
@@ -287,17 +275,15 @@
         "id": 17,
         "year" : "2024",
         "title": "Svajutis.lt | Accessories, Clothes for children and adults",
-        "short_description": "I developed Svajutis.lt as a clean and minimalistic e-commerce platform using WordPress . The site offers a seamless shopping experience with an intuitive design, catering to a wide range of stylish accessories and clothing for both children and adults.",
+        "short_description": "I developed Svajutis.lt, a clean and minimalistic e-commerce platform using WordPress, WooCommerce, and Bricks Builder. The site offers a seamless shopping experience with an intuitive design, catering to stylish accessories and clothing for both children and adults.",
         "project_img": "/Assets/projectImages/svajutis-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "svajutis.lt",
         "project_url": "https://svajutis.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Bricks",
-            "PHP",
-            "JavaScript",
             "CrocoBlock"
         ]
 
@@ -306,16 +292,14 @@
         "id": 18,
         "year" : "2024",
         "title": "Siurbliu Technikos Centras | Water preparation and processing.",
-        "short_description": "Siurbliu technikos centras - Deals with the full range of water preparation and water processing.",
+        "short_description": "I created Siurbliu Technikos Centras.lt, a website for water preparation and processing services, using WordPress and Bricks Builder. The platform highlights their expertise in water treatment solutions.",
         "project_img": "/Assets/projectImages/stc-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "stc-water.com",
         "project_url": "https://stc-water.com/",
         "build_with": [
-            "Wordpress",
-            "Bricks",
-            "PHP",
-            "JavaScript"
+            "WordPress",
+            "Bricks"
         ]
 
     },
@@ -323,17 +307,15 @@
         "id": 19,
         "year" : "2023",
         "title": "Prie Sendvario | World of Exclusive Fishing Gear and Tackle.",
-        "short_description": "Siurbliu technikos centras - Deals with the full range of water preparation and water processing.",
+        "short_description": "I created PrieSendvario.lt, a website for exclusive fishing gear and tackle, using WordPress, WooCommerce, and Elementor. The platform offers a seamless shopping experience with detailed product information.",
         "project_img": "/Assets/projectImages/priesendvario-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "priesendvario.lt",
         "project_url": "https://priesendvario.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
-            "Elementor",
-            "PHP",
-            "JavaScript"
+            "Elementor"
         ]
 
     },
@@ -341,16 +323,14 @@
         "id": 20,
         "year" : "2023",
         "title": "R&E BYG ApS | Ultimate solution for all your renovation needs.",
-        "short_description": "Select a renovation service and we will bring it to life. It's a partnership that works! We have customized renovation solutions for you.",
+        "short_description": "I developed R&E BYG ApS.dk, a website for renovation services, using WordPress and Elementor. The site offers customized renovation solutions with a clean design and intuitive navigation.",
         "project_img": "/Assets/projectImages/rebygaps-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "rebygaps.dk/en/",
         "project_url": "https://rebygaps.dk/en/",
         "build_with": [
-            "Wordpress",
-            "Elementor",
-            "PHP",
-            "JavaScript"
+            "WordPress",
+            "Elementor"
         ]
 
     },
@@ -358,17 +338,15 @@
         "id": 21,
         "year" : "2023",
         "title": "Nanosky | Innovative Light Design.",
-        "short_description": "The e-shop offers chandeliers and lighting solutions of exceptional quality and design, allowing you to unleash your creativity, realise long-cherished ideas, or be inspired by never-before-seen lighting effects.",
+        "short_description": "I built Nanosky.lt, an e-shop for chandeliers and lighting solutions, using WordPress, WooCommerce, and Elementor. The platform showcases exceptional quality and design, allowing customers to explore creative lighting options.",
         "project_img": "/Assets/projectImages/nanosky-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "nanosky.lt",
         "project_url": "https://www.nanosky.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
             "Elementor",
-            "PHP",
-            "JavaScript",
             "CrocoBlock"
         ]
 
@@ -376,18 +354,16 @@
     {
         "id": 22,
         "year" : "2023",
-        "title": "Saulės midus | the hives given to us by our mother, have now turned into a business.",
-        "short_description": "Saulės midus is located in a beautiful suburb of Šiauliai, on the way to the Hill of Crosses, next to a beekeeping farm.",
+        "title": "Saulės midus | The hives given to us by our mother, have now turned into a business.",
+        "short_description": "I developed Saulės Midus.lt, a website for a beekeeping business, using WordPress, WooCommerce, and Elementor. The site highlights their products and services with a clean design and easy navigation.",
         "project_img": "/Assets/projectImages/saulesmidus-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "saulesmidus.lt",
         "project_url": "https://saulesmidus.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
-            "Elementor",
-            "PHP",
-            "JavaScript"
+            "Elementor"
         ]
 
     },
@@ -395,17 +371,15 @@
         "id": 23,
         "year" : "2023",
         "title": "Linkuvos mėsa | Flavoursome and natural smoked and fried meat products.",
-        "short_description": "Smoked and fried products made from the freshest meat. Meat products with a taste you can't forget.",
+        "short_description": "I created Linkuvos Mėsa.lt, a website for smoked and fried meat products, using WordPress, WooCommerce, and Elementor. The platform showcases their products with a focus on quality and taste.",
         "project_img": "/Assets/projectImages/linkuvos-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "linkuvosmesa.lt",
         "project_url": "https://linkuvosmesa.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
-            "Elementor",
-            "PHP",
-            "JavaScript"
+            "Elementor"
         ]
 
     },
@@ -413,18 +387,206 @@
         "id": 24,
         "year" : "2023",
         "title": "Ekomanai | Heat pumps and solar power plants.",
-        "short_description": "Smoked and fried products made from the freshest meat. Meat products with a taste you can't forget.",
+        "short_description": "I built Ekomanai.lt, a website for heat pumps and solar power plants, using WordPress, WooCommerce, and Elementor. The site highlights their eco-friendly solutions with a clean design and intuitive navigation.",
         "project_img": "/Assets/projectImages/ekomanai-main.jpg",
         "made_at": "Artix.lt",
         "project_url_title": "ekomanai.lt",
         "project_url": "https://ekomanai.lt/",
         "build_with": [
-            "Wordpress",
+            "WordPress",
             "WooCommerce",
+            "Elementor"
+        ]
+
+    },
+    {
+        "id": 25,
+        "year" : "2023",
+        "title": "Anilux | Leading manufacturer of windows and doors.",
+        "short_description": "I developed Anilux.lt, a website for a leading manufacturer of windows and doors, using WordPress and Elementor. The platform showcases their products with a modern design and multilingual support.",
+        "project_img": "/Assets/projectImages/anilux-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "anilux.lt",
+        "project_url": "https://www.anilux.lt/",
+        "build_with": [
+            "WordPress",
             "Elementor",
+            "Multilanguage"
+        ]
+
+    },
+    {
+        "id": 26,
+        "year" : "2023",
+        "title": "Skycats | Widest Drone Services in Lithuania.",
+        "short_description": "I created Skycats.eu, a website for drone services, using WordPress and Elementor. The site highlights their expertise and services with a clean design and multilingual support.",
+        "project_img": "/Assets/projectImages/skycats-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "skycats.eu",
+        "project_url": "https://www.skycats.eu/",
+        "build_with": [
+            "WordPress",
+            "Elementor",
+            "Multilanguage"
+        ]
+
+    },
+    {
+        "id": 27,
+        "year" : "2023",
+        "title": "JAGO | Training Centre",
+        "short_description": "I developed JAGO.lt, a website for a training center specializing in the transport sector, using WordPress and Elementor. The platform offers a clean design.",
+        "project_img": "/Assets/projectImages/jago-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "jago.lt",
+        "project_url": "https://jago.lt/",
+        "build_with": [
+            "WordPress",
+            "Elementor"
+        ]
+
+    },
+    {
+        "id": 28,
+        "year" : "2023",
+        "title": "Nordfish | Largest recreation and fishing depots in Northern Norway.",
+        "short_description": "I built Nordfish.lt, a website for recreation and fishing services, using WordPress and Elementor. The site offers a full range of services with a clean design and multilingual support.",
+        "project_img": "/Assets/projectImages/nordfish-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "nordfish.lt",
+        "project_url": "https://nordfish.lt/",
+        "build_with": [
+            "WordPress",
+            "Elementor",
+            "Multilanguage"
+        ]
+
+    },
+    {
+        "id": 29,
+        "year" : "2023",
+        "title": "Eurosaule | Solar power plants, Power plant equipment.",
+        "short_description": "I developed Eurosaule.lt, a website for solar power plants and equipment, using WordPress and Elementor. The site highlights their products and services with a clean design and intuitive navigation.",
+        "project_img": "/Assets/projectImages/eurosaule-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "eurosaule.lt",
+        "project_url": "https://www.eurosaule.lt/",
+        "build_with": [
+            "WordPress",
+            "Elementor"
+        ]
+
+    },
+    {
+        "id": 30,
+        "year" : "2023",
+        "title": "Idea Foxus | Our mission is to help you become the best version of your business. Your unique way.",
+        "short_description": "I created Idea Foxus.com, a website for business consulting services, using WordPress and WP Bakery. The platform showcases their mission to help businesses grow with a modern design.",
+        "project_img": "/Assets/projectImages/ideafoxus-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "ideafoxus.com",
+        "project_url": "https://ideafoxus.com/",
+        "build_with": [
+            "WordPress",
+            "WP Bakery"
+        ]
+
+    },
+    {
+        "id": 31,
+        "year" : "2023",
+        "title": "Zarasų Ūkininkai | Zarasai branch of the Lithuanian Farmers' Union",
+        "short_description": "I developed Zarasų Ūkininkai.lt, a website for the Zarasai branch of the Lithuanian Farmers' Union, using WordPress and Elementor. The site provides information about their services and activities with a clean design.",
+        "project_img": "/Assets/projectImages/zarasai-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "zarasuukininkai.lt",
+        "project_url": "https://zarasuukininkai.lt/",
+        "build_with": [
+            "WordPress",
+            "Elementor"
+        ]
+
+    },
+    {
+        "id": 32,
+        "year" : "2024",
+        "title": "GOZ | eCommerce paltform.",
+        "short_description": "I developed GOZ.lt, an eCommerce platform offering everything for home, garden, and travel. Using WordPress, WooCommerce, and Bricks Builder, the site provides a user-friendly shopping experience with dynamic layouts and seamless navigation.",
+        "project_img": "/Assets/projectImages/goz-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "goz.lt",
+        "project_url": "https://goz.lt/",
+        "build_with": [
+            "WordPress",
+            "WooCommerce",
+            "Bricks",
             "PHP",
-            "JavaScript"
+            "JavaScript",
+            "CrocoBlock"
+        
+        ]
+
+    },
+    {
+        "id": 33,
+        "year" : "2024",
+        "title": "Verosofa | Stylish Furniture and Professional Advice",
+        "short_description": "I built Verosofa.lt, a website offering stylish furniture and professional advice, using WordPress, WooCommerce, and Bricks Builder. The platform features a clean design, intuitive navigation, and detailed product information.",
+        "project_img": "/Assets/projectImages/verosofa-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "verosofa.lt",
+        "project_url": "https://verosofa.lt/",
+        "build_with": [
+            "WordPress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        
+        ]
+
+    },
+    {
+        "id": 34,
+        "year" : "2025",
+        "title": "AzijaPanda | Asian Food Shop in Lithuania",
+        "short_description": "I developed AzijaPanda.lt, an Asian grocery store website, using WordPress and WooCommerce. The site offers a wide variety of Asian flavors, featuring an intuitive design and seamless shopping experience. Built with Bricks Builder, PHP, and JavaScript, the platform ensures easy navigation and efficient product browsing for customers in Lithuania.",
+        "project_img": "/Assets/projectImages/azijapanda-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "verosofa.lt",
+        "project_url": "https://verosofa.lt/",
+        "build_with": [
+            "WordPress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock",
+            "MailChimp"
+        
+        ]
+
+    },
+    {
+        "id": 35,
+        "year" : "2025",
+        "title": "Saule24 | Solar power plant equipment and installation",
+        "short_description": "I created Saule24.lt, an e-shop for solar power plant equipment and installation services, using WordPress and WooCommerce. The site showcases a wide range of solar energy products, including modules, inverters, and batteries. Built with Bricks Builder, PHP, and JavaScript, the platform provides a user-friendly experience for customers exploring renewable energy solutions.",
+        "project_img": "/Assets/projectImages/saule24-main.jpg",
+        "made_at": "Artix.lt",
+        "project_url_title": "saule24.lt",
+        "project_url": "https://saule24.lt/",
+        "build_with": [
+            "WordPress",
+            "WooCommerce",
+            "Bricks",
+            "PHP",
+            "JavaScript",
+            "CrocoBlock"
+        
         ]
 
     }
+
 ]
