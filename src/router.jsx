@@ -3,6 +3,7 @@ import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
 import Archive from "./Routes/Archive/Archive";
 import ScrollToTop from './Components/ScrollToTop/ScrollToTop';
+import PageNotFound from './Components/PageNotFound/PageNotFound';
 
 export const router = createBrowserRouter([
   {
@@ -19,6 +20,15 @@ export const router = createBrowserRouter([
       <>
         <ScrollToTop />
         <Archive />
+      </>
+    ),
+  },
+  {
+    path: '*',
+    element: (
+      <>
+        <ScrollToTop />
+        <PageNotFound />
       </>
     ),
   },
