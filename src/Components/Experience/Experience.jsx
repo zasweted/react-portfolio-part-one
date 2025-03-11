@@ -18,15 +18,7 @@ const Experience = () => {
             <div>
                 <ol className='experience-section__list'>
                     {
-                        experienceData
-                            .sort((a, b) => {
-                                // Extract the start year from the date range
-                                const startYearA = parseInt(a.date.split("–")[0].trim().split(" ").pop(), 10);
-                                const startYearB = parseInt(b.date.split("–")[0].trim().split(" ").pop(), 10);
-
-                                // Sort by start year in descending order
-                                return startYearB - startYearA;
-                            })
+                        experienceData.sort((a, b) => b.id - a.id)
                             .map((experience) => (
                                 <li key={experience.id}>
                                     {experience.company_url ? (
