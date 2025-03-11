@@ -26,7 +26,7 @@
     },
     {
         "id": 3,
-        "date": "December 2022 – Present",
+        "date": "December 2022 – February 2025",
         "position": "Junior Web Developer | Artix.lt",
         "company_url": "http://www.artix.lt",
         "description": "Developed and maintained websites using PHP, WordPress, Elementor, HTML, CSS, JS, and jQuery. Focused on delivering user-friendly and visually engaging web solutions. Demonstrated expertise in web development, problem-solving, and attention to detail.",
@@ -38,6 +38,19 @@
             "CSS",
             "JavaScript",
             "jQuery"
+        ]
+    },
+    {
+        "id": 4,
+        "date": "March 2025 - Present",
+        "position": "Junior Back End Developer | Frogdom",
+        "company_url": "https://www.frogdom.com/",
+        "description": "Developing and Maintaining Tour operators system software, Reservation system, Tour CMS, Air tickets software, Booking system, and Product for tourism",
+        "skills_acquired": [
+            "PHP",
+            "Symfony",
+            "Doctrine",
+            "MySql"
         ]
     }
 ]
