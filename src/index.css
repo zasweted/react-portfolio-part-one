@@ -1,30 +1,25 @@
 :root {
-    font-family: 'Inter', sans-serif;
-}
-
-@supports (font-variation-settings: normal) {
-    :root {
-        font-family: 'InterVariable', sans-serif;
-        font-feature-settings: "ss03", "cv02", "cv11";
-    }
-}
-
-:root {
     --primary-dark: #0f172a;
     --primary-text: #E2E8F0;
     --secondary-text: #94A3B8;
     --hover-blue: #5eead4;
 
     --disabled-color: #64748b;
-
+    
     --text-highlight-bg: #57D9D5;
     --text-highlight-color: #134e4a;
     --experience-hover-bg: rgba(30, 41, 59, 0.5);
     --tags-bg: rgba(45, 212, 191, .1);
+    
+    --transition-primary: all .15s cubic-bezier(.4, 0, .2, 1); 
+}
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; 
+  }
 
-    --transition-primary: all .15s cubic-bezier(.4, 0, .2, 1);
-
-
+@supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
 }
 
 ::selection {

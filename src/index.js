@@ -3,7 +3,6 @@ import ReactDOM from "react-dom/client";
 import { RouterProvider } from "react-router-dom";
 import {router} from './router';
 import './index.css';
-import './inter.css';
 import GlowEffect from "./Components/GlowEffect/GlowEffect";
 
 
