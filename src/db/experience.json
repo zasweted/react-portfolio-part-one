@@ -45,12 +45,14 @@
         "date": "March 2025 – Present",
         "position": "Junior Back End Developer | Frogdom",
         "company_url": "https://www.frogdom.com/",
-        "description": "Developing and Maintaining Tour operators system software, Reservation system, Tour CMS, Air tickets software, Booking system, and Product for tourism",
+        "description": "Developing and Maintaining Tour operators system software, Reservation system, Tour CMS, Booking system, and Product for tourism",
         "skills_acquired": [
             "PHP",
             "Symfony",
             "Doctrine",
-            "MySql"
+            "MySql",
+            "Docker",
+            "Git"
         ]
     }
 ]

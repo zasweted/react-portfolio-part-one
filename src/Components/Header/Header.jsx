@@ -25,7 +25,9 @@ const Header = ({ activeSection }) => {
           <h1>Aleksandr Vasiljev</h1>
         </a>
         <h2>Junior Fullstack Developer</h2>
-        <p>A digital artisan crafting seamless and engaging fullstack web applications with <span>WordPress</span>, blending functionality and aesthetics to deliver exceptional user experiences.</p>
+        <p>
+          Passionate about building robust, scalable, and efficient <span>back end</span> systems for <span>tourism</span> and <span>reservation platforms</span>. Combining logic-driven development with creative problem-solving to deliver reliable digital solutions.
+        </p>
 
         {isTablet ? (
           null

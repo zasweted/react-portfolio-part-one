@@ -4,7 +4,7 @@
 
 @supports (font-variation-settings: normal) {
     :root {
-        font-family: 'Inter var', sans-serif;
+        font-family: 'InterVariable', sans-serif;
         font-feature-settings: "ss03", "cv02", "cv11";
     }
 }
